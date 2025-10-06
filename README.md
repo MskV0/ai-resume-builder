@@ -38,7 +38,7 @@ A professional AI-powered resume builder with smart suggestions, multi-language 
 ## Installation
 ```bash
 # Clone the repository
-git clone <https://github.com/MskV0/ai-resume-builder.git>
+git clone https://github.com/MskV0/ai-resume-builder.git
 
 # Navigate to project directory
 cd ai-resume-builder
